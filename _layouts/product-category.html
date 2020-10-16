@@ -22,7 +22,7 @@ show_sidebar: false
           {% if product.category == provider.category %}
           <div class="card-content">
             <div class="card-image">
-                <img src="{{ product.image }}" alt="{{ product.title }}" />
+                <img src="{{ product.image }}" alt="{{ product.title }}" width="30" height="40"/>
                 <a class="title is-4" href="{{ product.url | relative_url }}"> {{product.title}} </a>
             </div>
         </div>
