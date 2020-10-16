@@ -1,6 +1,7 @@
 ---
 layout: product-page
-title: EKS
+title: Our Platform Services
+subtitle: EKS
 category: aws
 description: This is a product description for AWS EKS service. It is a kubernetes service.
 Service-Status: BETA
