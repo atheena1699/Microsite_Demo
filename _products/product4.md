@@ -1,6 +1,7 @@
 ---
 layout: product-page
-title: Cloud Function
+title: Our Platform Services
+subtitle: Cloud Function
 category: gcp
 description: This is a product description for GCP cloud function service. It is a compute service.
 Service-Status: BETA
