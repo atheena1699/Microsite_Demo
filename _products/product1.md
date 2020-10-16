@@ -5,7 +5,7 @@ category: aws
 description: This is a product description for AWS EC2 service. It is a compute service.
 Service-Status: OK
 SLA: https://aws.amazon.com/compute/sla/
-icon: "../images/ec2.png"
+image: "../images/ec2.png"
 show_sidebar: false
 tabs: product_tabs
 Use-Cases: "Case 1-This is the first use case of the service
@@ -22,7 +22,7 @@ Onboarding: "Follow the steps to onboard the service.
 8. Review Instances."
 Tf: https://github.com/
 ---
-sfsdfsegfdgb
+
 
 
 
