@@ -1,6 +1,7 @@
 ---
 layout: product-page
-title: EC2
+title: Our Platform Services
+subtitle: EC2
 category: aws
 description: This is a product description for AWS EC2 service. It is a compute service.
 Service-Status: OK
