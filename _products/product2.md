@@ -5,7 +5,7 @@ category: aws
 description: This is a product description for AWS EKS service. It is a kubernetes service.
 Service-Status: BETA
 SLA: https://aws.amazon.com/compute/sla/
-image: "../images/ecs.png"
+image: "../images/eks.png"
 show_sidebar: false
 tabs: product_tabs
 Use-Cases: "Case 1-This is the first use case of the service
