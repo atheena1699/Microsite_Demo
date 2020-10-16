@@ -1,6 +1,7 @@
 ---
 layout: product-page
-title: GKE
+title: Our Platform Services
+subtitle: GKE
 category: gcp
 description: This is a product description for GCP GKE service. It is a kubernetes service.
 Service-Status: BETA
